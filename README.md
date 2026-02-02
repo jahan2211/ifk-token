@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="IFK Token Logo" width="180">
+  <img src="https://raw.githubusercontent.com/jahan2211/ifk-token/main/ifk.svg" alt="IFK Token Logo" width="180">
 </p>
 
 <h1 align="center">Token Inflation Killer (IFK)</h1>
