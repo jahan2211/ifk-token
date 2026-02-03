@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Total%20Supply-1,000,000%20IFK-green" alt="Total Supply Badge">
 </p>
 
+
 ---
 
 ## 🔹 Token Details
@@ -26,21 +27,19 @@
 | **Contract Address** | 0xBc78d490737ff2395e2674C7E40E6689099Cc942 |
 | **Total Supply**  | 1,000,000 IFK |
 
+
+## 🎯 Purpose
+IFK is a community-driven token focused on transparency, fair tokenomics, and long-term sustainability within decentralized ecosystems.
 ---
 
-## 🔹 Purpose
-IFK is a community-driven token that promotes **transparency** and **fair tokenomics** within decentralized ecosystems.  
-It is designed for safe, fair, and community-focused growth.
-
----
-
-## 🔹 Official Links
-- [View Token on BaseScan](https://basescan.org/token/0xBc78d490737ff2395e2674C7E40E6689099Cc942)  
+## 🔗 Official Links
+- [View Token on BaseScan](https://basescan.org/token/0xBc78d490737ff2395e2674C7E40E6689099Cc942)
 - [Visit Project Website](https://jahan2211.github.io/ifk-token)
-
----
-
-## 🔹 How to Add / Buy IFK
+- Official Email: [ifktoken@gmail.com](mailto:ifktoken@gmail.com)
+- Token Logo (SVG 32x32):
+  https://raw.githubusercontent.com/jahan2211/ifk-token/main/ifk-32.svg
+    - 
+  ## 🔹 How to Add / Buy IFK
 To add IFK to your wallet (MetaMask / Web3 wallet):
 
 1. Open your wallet and select **“Add Token”**.  
